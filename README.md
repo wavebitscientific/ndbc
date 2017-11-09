@@ -1,5 +1,8 @@
 # ndbc
 
+[![Build Status](https://travis-ci.org/wavebitscientific/ndbc.svg?branch=master)](https://travis-ci.org/wavebitscientific/ndbc)
+[![GitHub issues](https://img.shields.io/github/issues/wavebitscientific/ndbc.svg)](https://github.com/wavebitscientific/ndbc/issues)
+
 A Python interface to National Data Buoy Center data.
 
 ## Getting started
